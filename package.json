@@ -2,13 +2,13 @@
   "name": "telegram_bot_openweather_api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "openweather.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "",
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "private": "true", 
+  "author": "laurent Knauss",
+  "license": "MIT",
   "devDependencies": {
     "node-telegram-bot-api": "^0.60.0",
     "request": "^2.88.2"
